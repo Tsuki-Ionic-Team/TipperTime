@@ -16,8 +16,8 @@
 
 // [ Javascript | Jquery ============================================================ ]
 $(document).ready(function () {
-    var pathname = window.location.pathname;    // = /@work/TripperTime/
-    var url = window.location.href;             // = http://localhost/@work/TripperTime/
+    var pathname = window.location.pathname;    // = /TripperTime/
+    var url = window.location.href;             // = http://localhost/TripperTime/
     var origin = window.location.origin;        // = http://localhost
 
     // if( == TripperTime ) {
