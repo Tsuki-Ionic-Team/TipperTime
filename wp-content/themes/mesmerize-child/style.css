@@ -1,0 +1,18 @@
+/*
+Theme Name: Mesmerize Child
+Theme URI: https://wp-themes.com/mesmerize
+Author: ChildThemeWP.com
+Author URI: https://childthemewp.com
+Description: My WordPress Mesmerize child theme.
+Template: mesmerize
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 1.0.0
+Text Domain: mesmerize-child
+*/
+
+.bg-color1 {
+    background-color: gold;
+    position: relative;
+}
+
